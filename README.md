@@ -11,10 +11,11 @@ After understanding the data, I performed data cleaning, removed duplicate recor
 ## Insights :
 - The highest popular market categories are **Hatchback, Flex Fuel; Flex Fuel, Diesel; and Crossover, Flex Fuel, Performance**.
 - **Bugatti and Maybach** are the highest-priced brands, while **Plymouth and Oldsmobile** are the lowest-priced brands.
-- After performing regression analysis to identify the variables that have the strongest relationship with a car's price, it was observed that **Engine HP** has the strongest relationship with car price.
+- After performing regression analysis to identify the variables that have the strongest relationship with a car's price, it was observed that **Engine HP** has the strongest relationship with car price, hence
+  the manufacturer should focus on keeping high Engine HP to increase profitability.
 - The body style **4dr Hatchback** has the highest fuel efficiency on highways.
 - The **Chevrolet** brand has the highest total MSRP, and the **Sedan** body style has the highest total MSRP.
-- Vehicles with more number of **Engine cylinders** typically have lower fuel efficiency on **highways**.
+- Vehicles with more number of **Engine cylinders** typically have lower fuel efficiency on **highways**, which is a good indicator of understanding the customer's demand.
 
 ## Tech-Stack Used :
 Tableau Public - Tableau Public is a free platform to explore, create, and publicly share data visualizations online. I have used this as it provides various features to create visually appealing charts.
