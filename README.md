@@ -17,11 +17,8 @@ After understanding the data, I performed data cleaning, removed duplicate recor
 - The **Chevrolet** brand has the highest total MSRP, and the **Sedan** body style has the highest total MSRP.
 - Vehicles with more number of **Engine cylinders** typically have lower fuel efficiency on **highways**, which is a good indicator of understanding the customer's demand.
 
-## Tech-Stack Used :
-Tableau Public - Tableau Public is a free platform to explore, create, and publicly share data visualizations online. I have used this as it provides various features to create visually appealing charts.
-
 ## Links :
-Tableau Public Report: 
+Tableau Public Report: https://public.tableau.com/views/ImpactofCarFeatures_16867560486930/Task1A?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Presentation Link - https://drive.google.com/file/d/1WSXivnCnEMm2mSvhC1maM6qyXk7kW7Df/view?usp=sharing
 
