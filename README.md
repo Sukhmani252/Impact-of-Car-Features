@@ -6,7 +6,8 @@ How can a car manufacturer optimize pricing and product development decisions to
 
 ## Approach :
 The main aim is to analyze the relationship between a car's features, market category, and pricing, and identify which features and categories are most popular among consumers and most profitable for the manufacturer.
-After understanding the data, I performed data cleaning, removed duplicate records, and handled missing data and inconsistent values. After that, I performed exploratory data analysis and found the highest popular categories, brands, average prices for different manufacturers, and how the price varies by other features. Then, I performed regression analysis to find the relationships between different features by calculating the correlation coefficient which will help the manufacturer to develop a pricing strategy that balances consumer demand with profitability and identify which product features to focus on in future product development efforts. This will help the manufacturer improve its competitiveness in the market and increase its profitability over time.
+
+Regression analysis is performed to find the relationships between different features which will help the manufacturer to develop a pricing strategy that balances consumer demand with profitability and identify which product features to focus on in future product development efforts. This will help the manufacturer improve its competitiveness in the market and increase its profitability over time.
 
 ## Insights :
 - The highest popular market categories are **Hatchback, Flex Fuel; Flex Fuel, Diesel; and Crossover, Flex Fuel, Performance**.
